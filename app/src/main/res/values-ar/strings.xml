@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Haram login</string>
+    <string name="login_edit">تسجيل الدخول</string>
+    <string name="password_edit">كلمه السر</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="no_login">لا تسجيل الدخول</string>
+    <string name="no_password">لا توجد كلمة مرور</string>
+    <string name="no">تسجيل الدخول أو كلمة سر خاطئة</string>
+</resources>

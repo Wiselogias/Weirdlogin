@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weird login</string>
+    <string name="login_edit">login:</string>
+    <string name="password_edit">password:</string>
+    <string name="login">login</string>
+    <string name="no_login">no login</string>
+    <string name="no_password">no password</string>
+    <string name="no">incorrect login or password</string>
+</resources>
